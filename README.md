@@ -39,7 +39,7 @@ __________________________
 ### Github Stat
 <p align="center">
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentietnguyenkhoi)](https://github.com/anuraghazra/github-readme-stats)
- </p>
+</p>
 
 <!--
 **nguyentietnguyenkhoi/nguyentietnguyenkhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
