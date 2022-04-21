@@ -12,13 +12,12 @@ I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Scienc
 - ⚡ Fun fact: ...
 
 ### Connect with me
-
---------------------------
+[Linkedin](https://www.linkedin.com/in/nguyentietnguyenkhoi/)
 __________________________
 
 ### Languages and Tools
 
-<br />
+__________________________
 
 ### Github Stat
 
