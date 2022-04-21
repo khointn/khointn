@@ -17,7 +17,6 @@ I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Scienc
 
 ### 📫 Connect with me
 - <img align="left" alt="Linkedin" width="20px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>[LinkedIn](https://www.linkedin.com/in/nguyentietnguyenkhoi/)
-- <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164416283-7765bd84-7351-42a5-8939-e8799ab44711.png>[GitHub](https://github.com/nguyentietnguyenkhoi)
 __________________________
 
 ### 🔭 As recruiter, what can you expect on me? 
@@ -36,7 +35,7 @@ __________________________
  
 __________________________
 
-### Github Stat
+### 🌱 Github Stat
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentietnguyenkhoi)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentietnguyenkhoi)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -50,4 +49,5 @@ __________________________
 - 🤔 I’m looking for help with ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164416283-7765bd84-7351-42a5-8939-e8799ab44711.png>[GitHub](https://github.com/nguyentietnguyenkhoi)
 -->
