@@ -12,7 +12,7 @@ I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Scienc
 - ⚡ Fun fact: ...
 
 ### Connect with me
-- [<img align="left" alt="Linkedin" width="26px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>] [Linkedin](https://www.linkedin.com/in/nguyentietnguyenkhoi/)
+- <img align="left" alt="Linkedin" width="26px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png> [Linkedin](https://www.linkedin.com/in/nguyentietnguyenkhoi/)
 __________________________
 
 ### Languages and Tools
