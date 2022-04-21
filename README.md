@@ -40,7 +40,7 @@ __________________________
 <img align="left" alt="Firebase" width="20px" src = https://user-images.githubusercontent.com/53163183/164427430-1af5277f-5445-4c00-b5a5-21c4cdff790a.png>
 
 
-<\>
+[<\>]
 __________________________
 
 ### Github Stat
