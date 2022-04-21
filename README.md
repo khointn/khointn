@@ -1,4 +1,4 @@
-### Hi there - I'm Khoi 👋
+### 👋 Hi there - I'm Khoi
 
 I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Science. I'm currently looking to learn and improve practical skills through internships and research opportunities. My technical interests include, but are not restricted to, data science, AI, software engineering, and maybe also blockchain (but not NFT or Web3, they are buzzwords).
 
@@ -30,7 +30,9 @@ __________________________
 
 ### ⚡Languages and Tools
 
-<img align="center" width="427" alt="image" src="https://user-images.githubusercontent.com/53163183/164431049-5f97ab86-ca6b-49fd-a64e-6d2093675388.png">
+<p align="center">
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/53163183/164431049-5f97ab86-ca6b-49fd-a64e-6d2093675388.png">
+  </p>
  
 __________________________
 
