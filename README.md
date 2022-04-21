@@ -10,11 +10,10 @@ I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Scienc
 ### Extracurricular Activities
 - Co-Founder and Vice President of [VinMaker Society](https://www.facebook.com/vinmakersoc) - largest Engineering Club at VinUni. We hosted technical workshops (Unity, Web Dev, etc.), make podcast (Data Science, Learn Coding, etc.), and make fun stuff together.
 - Previous works: 2020 Finance Manager - [Pencil Philosophy](https://www.facebook.com/Pencil.Philosophy), 2019 Event Leader - [VietAbroader](https://www.facebook.com/vietabroaderconnect), 2019 Organizer - [SEALNet](https://www.facebook.com/sealnet), etc.
-
-#####  Competitions
-- National Champion, Schneider Go Green Challenge 2022
-- Third Prize, International Blockchain Olympiad 2021 (IBCOL) - an ideathon competition on blockchain solutions. Read more [here](https://vnexpress.net/viet-nam-thang-ba-giai-olympic-blockchain-quoc-te-4370294.html) (Vietnamese)
-- Top 6, National Blockchain Olympiad 2021 (VNBCOL)
+- Competitions
+  - National Champion, Schneider Go Green Challenge 2022
+  - Third Prize, International Blockchain Olympiad 2021 (IBCOL) - an ideathon competition on blockchain solutions. Read more [here](https://vnexpress.net/viet-nam-thang-ba-giai-olympic-blockchain-quoc-te-4370294.html) (Vietnamese)
+  - Top 6, National Blockchain Olympiad 2021 (VNBCOL)
 
 __________________________
 
