@@ -37,7 +37,7 @@ __________________________
 <img align="left" alt="SQL" width="23px" src = https://user-images.githubusercontent.com/53163183/164426672-5008af0e-f08f-4e6c-9744-3f2f6e9e8b81.png>
 <img align="left" alt="Azure" width="20px" src = https://user-images.githubusercontent.com/53163183/164426814-d2eb720f-e995-483a-9d14-4585304d1843.png>
 <img align="left" alt="Android" width="20px" src = https://user-images.githubusercontent.com/53163183/164427306-40f1be81-efaf-4848-9763-e362bf62b425.png>
-<img align="left" alt="Firebase" width="30px" src = https://user-images.githubusercontent.com/53163183/164427430-1af5277f-5445-4c00-b5a5-21c4cdff790a.png>
+ 
 __________________________
 
 ### Github Stat
