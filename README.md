@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there - I'm Khoi 👋
 
-<!--
-**nguyentietnguyenkhoi/nguyentietnguyenkhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Science. I'm currently looking to learn and improve practical skills through internships and research opportunities. My technical interests include, but are not restricted to, data science, AI, software engineering, and maybe also blockchain (but not NFT or Web3 pls, they are buzzwords).
 
-Here are some ideas to get you started:
+### A little bit about me
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,4 +12,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### Connect with me
+
+</br>(
+
+### Languages and Tools
+
+</br>
+
+### Github Stat
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentietnguyenkhoi)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!--
+**nguyentietnguyenkhoi/nguyentietnguyenkhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
