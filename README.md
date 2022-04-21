@@ -30,7 +30,7 @@ __________________________
 
 ### Languages and Tools
 
-[]("https://user-images.githubusercontent.com/53163183/164430550-f0956924-0fc7-4170-a04d-41a4b7b4ff6c.png")
+<img width="427" alt="image" src="https://user-images.githubusercontent.com/53163183/164431049-5f97ab86-ca6b-49fd-a64e-6d2093675388.png">
  
 __________________________
 
