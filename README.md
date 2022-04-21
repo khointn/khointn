@@ -15,6 +15,9 @@ I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Scienc
   - Third Prize, International Blockchain Olympiad 2021 (IBCOL) - an ideathon competition on blockchain solutions. Read more [here](https://vnexpress.net/viet-nam-thang-ba-giai-olympic-blockchain-quoc-te-4370294.html) (Vietnamese)
   - Top 6, National Blockchain Olympiad 2021 (VNBCOL)
 
+### Connect with me
+- <img align="left" alt="Linkedin" width="20px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>[LinkedIn](https://www.linkedin.com/in/nguyentietnguyenkhoi/)
+- <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164416283-7765bd84-7351-42a5-8939-e8799ab44711.png>[GitHub](https://github.com/nguyentietnguyenkhoi)
 __________________________
 
 ### - 🔭 As recruiter, what can you expect on me? 
@@ -22,10 +25,6 @@ __________________________
 - **Strong communication skill**: I love to participate in social and extracurricular activities and a very active student. However, notice that I'm an introvert and maybe anti-social sometimes. Yes, introverts but love activities - they exist!
 - **Business sense and mindset**: Despite the fact that I'm a computer science student, I love to join in business competitions and got some awards. I also took 2 Finance courses in my university. I can switch and balance between business mindset and computer science mindset and this could be helpful in developing technological products for business.
 - **Summary**: 60% coder 40% business, willing to learn and improve, good communication.
-
-### Connect with me
-- <img align="left" alt="Linkedin" width="20px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>[LinkedIn](https://www.linkedin.com/in/nguyentietnguyenkhoi/)
-- <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164416283-7765bd84-7351-42a5-8939-e8799ab44711.png>[GitHub](https://github.com/nguyentietnguyenkhoi)
 
 __________________________
 
