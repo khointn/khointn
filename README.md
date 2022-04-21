@@ -29,15 +29,15 @@ __________________________
 __________________________
 
 ### Languages and Tools
-<img align="left" alt="Python" width="20px" src = https://user-images.githubusercontent.com/53163183/164425851-3b50a841-c5e0-4f83-92b5-137a615f8544.png>
+<img align="left" alt="Python" width="25px" src = https://user-images.githubusercontent.com/53163183/164425851-3b50a841-c5e0-4f83-92b5-137a615f8544.png>
 <img align="left" alt="Tensorflow" width="20px" src = https://user-images.githubusercontent.com/53163183/164426026-95b9eb33-2867-4a26-b9b8-b5877a0c811e.png>
-<img align="left" alt="Pandas" width="20px" src = https://user-images.githubusercontent.com/53163183/164426195-ddfcebb1-903a-4a4a-aace-575101b4d20f.png>
+<img align="left" alt="Pandas" width="25px" src = https://user-images.githubusercontent.com/53163183/164426195-ddfcebb1-903a-4a4a-aace-575101b4d20f.png>
 <img align="left" alt="Git" width="20px" src = https://user-images.githubusercontent.com/53163183/164426428-fd56eb90-faad-4264-8262-0a4aef1cde50.png>
 <img align="left" alt="GitLab" width="20px" src = https://user-images.githubusercontent.com/53163183/164426540-48f4e147-2dcd-4b41-9030-85c2e40db560.png>
 <img align="left" alt="SQL" width="23px" src = https://user-images.githubusercontent.com/53163183/164426672-5008af0e-f08f-4e6c-9744-3f2f6e9e8b81.png>
 <img align="left" alt="Azure" width="20px" src = https://user-images.githubusercontent.com/53163183/164426814-d2eb720f-e995-483a-9d14-4585304d1843.png>
 <img align="left" alt="Android" width="20px" src = https://user-images.githubusercontent.com/53163183/164427306-40f1be81-efaf-4848-9763-e362bf62b425.png>
-<img align="left" alt="Firebase" width="23px" src = https://user-images.githubusercontent.com/53163183/164427430-1af5277f-5445-4c00-b5a5-21c4cdff790a.png>
+<img align="left" alt="Firebase" width="30px" src = https://user-images.githubusercontent.com/53163183/164427430-1af5277f-5445-4c00-b5a5-21c4cdff790a.png>
 __________________________
 
 ### Github Stat
