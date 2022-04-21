@@ -17,7 +17,7 @@ I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Scienc
 
 ### 📫 Connect with me
 - <img align="left" alt="Linkedin" width="20px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>[LinkedIn](https://www.linkedin.com/in/nguyentietnguyenkhoi/)
-- - <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>[LinkedIn](https://www.github.com/nguyentietnguyenkhoi/)
+- <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164441475-ce2ef3c5-08f2-4ec6-aad9-61c9114b180b.png>[LinkedIn](https://www.github.com/nguyentietnguyenkhoi/)
 __________________________
 
 ### 🔭 As recruiter, what can you expect on me? 
