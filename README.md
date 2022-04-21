@@ -30,16 +30,13 @@ __________________________
 
 ### ⚡Languages and Tools
 
-<p align="center">
-<img width="500" alt="image" src="https://user-images.githubusercontent.com/53163183/164431049-5f97ab86-ca6b-49fd-a64e-6d2093675388.png">
-  </p>
+<img width="600" alt="image" src="https://user-images.githubusercontent.com/53163183/164431049-5f97ab86-ca6b-49fd-a64e-6d2093675388.png">
  
 __________________________
 
 ### Github Stat
-<p align="center">
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentietnguyenkhoi)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 <!--
 **nguyentietnguyenkhoi/nguyentietnguyenkhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
