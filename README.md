@@ -15,7 +15,7 @@ I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Scienc
 
 ### Connect with me
 
-</br>(
+<br />
 
 ### Languages and Tools
 
