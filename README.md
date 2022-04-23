@@ -16,8 +16,8 @@ I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Scienc
   - Top 6, National Blockchain Olympiad 2021 (VNBCOL)
 
 ### 📫 Connect with me
-- <img align="left" alt="Linkedin" width="20px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>[LinkedIn](https://www.linkedin.com/in/nguyentietnguyenkhoi/)
-- <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164441475-ce2ef3c5-08f2-4ec6-aad9-61c9114b180b.png>[GitHub](https://www.github.com/nguyentietnguyenkhoi/)
+- <img align="left" alt="Linkedin" width="20px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>[LinkedIn](https://www.linkedin.com/in/khointn/)
+- <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164441475-ce2ef3c5-08f2-4ec6-aad9-61c9114b180b.png>[GitHub](https://www.github.com/khointn/)
 __________________________
 
 ### 🔭 As recruiter, what can you expect on me? 
@@ -37,7 +37,7 @@ __________________________
 __________________________
 
 ### 🌱 Github Stat
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentietnguyenkhoi)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=khointn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nguyentietnguyenkhoi/nguyentietnguyenkhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
