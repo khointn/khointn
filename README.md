@@ -20,8 +20,8 @@ I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Scienc
 - <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164441475-ce2ef3c5-08f2-4ec6-aad9-61c9114b180b.png>[GitHub](https://www.github.com/khointn/)
 __________________________
 
-### 🔭 As recruiter, what can you expect on me? 
-- **Eager to learn**: My coding skill is above average but not the best and not outstanding, there are many things that I still need to learn more and I'm willing to do so. I usually adapt fast, if I don't then I will put more time on it until I get it.
+### 🔭 As recruiter, what can you expect from me? 
+- **Eager to learn**: My coding skill is above average but not the best and not outstanding, there are many things that I still need to learn more and I'm willing to do so. I usually adapt fast, if I don't then I will put more time into it until I get it.
 - **Strong communication skill**: I love to participate in social and extracurricular activities and a very active student. However, notice that I'm an introvert and maybe anti-social sometimes. Yes, introverts but love activities - they exist!
 - **Business sense and mindset**: Despite the fact that I'm a computer science student, I love to join in business competitions and got some awards. I also took 2 Finance courses in my university. I can switch and balance between business mindset and computer science mindset and this could be helpful in developing technological products for business.
 - **Summary**: 60% coder 40% business, willing to learn and improve, good communication.
