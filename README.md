@@ -3,6 +3,7 @@
 I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Science. I'm currently looking to learn and improve practical skills through internships and research opportunities. My technical interests include, but are not restricted to, data science, AI, software engineering, and maybe also blockchain (but not NFT or Web3, they are buzzwords).
 
 ### 💬 Previous Experience
+- Data Scientist Intern - Cốc Cốc Browser (2022)
 - Data Engineer Intern - FPT Software (2021)
 - Student Research Assitant - VinUniversity (2021 - now)
 - Business Analyst Intern - TMA Solutions (2019)
