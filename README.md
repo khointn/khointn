@@ -1,6 +1,6 @@
 ### 👋 Hi there - I'm Khoi
 
-I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Science. I'm currently looking to learn and improve practical skills through internships and research opportunities. My technical interests include, but are not restricted to, data science, AI, software engineering, and maybe also blockchain (but not NFT or Web3, they are buzzwords).
+I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Science. I'm currently looking to learn and improve practical skills through internships and research opportunities. My technical interests include, but are not restricted to, data science, AI, software engineering, and maybe also blockchain.
 
 ### 💬 Previous Experience
 - Data Scientist Intern - Cốc Cốc Browser (2022)
