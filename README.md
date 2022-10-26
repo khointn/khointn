@@ -17,8 +17,6 @@ I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Scienc
   - Top 6, National Blockchain Olympiad 2021 (VNBCOL)
 
 ### 📫 Connect with me
-- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/khointn/)
-
 - <img align="left" alt="Linkedin" width="20px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>[LinkedIn](https://www.linkedin.com/in/khointn/)
 - <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164441475-ce2ef3c5-08f2-4ec6-aad9-61c9114b180b.png>[GitHub](https://www.github.com/khointn/)
 __________________________
@@ -32,6 +30,13 @@ __________________________
 __________________________
 
 ### ⚡Languages and Tools
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 <p align="center">
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/53163183/164431049-5f97ab86-ca6b-49fd-a64e-6d2093675388.png">
