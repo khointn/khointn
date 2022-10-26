@@ -38,11 +38,6 @@ __________________________
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
-<p align="center">
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/53163183/164431049-5f97ab86-ca6b-49fd-a64e-6d2093675388.png">
- </p>
- 
- <img src="https://badges.aleen42.com/src/visual_studio_code.svg" alt="badge"/>
 __________________________
 
 ### 🌱 Github Stat
