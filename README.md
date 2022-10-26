@@ -35,6 +35,7 @@ __________________________
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/53163183/164431049-5f97ab86-ca6b-49fd-a64e-6d2093675388.png">
  </p>
  
+ <img src="https://badges.aleen42.com/src/visual_studio_code.svg" alt="badge"/>
 __________________________
 
 ### 🌱 Github Stat
