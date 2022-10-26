@@ -17,6 +17,7 @@ I'm an aspiring sophomore at VinUniversity, Vietnam, majoring in Computer Scienc
   - Top 6, National Blockchain Olympiad 2021 (VNBCOL)
 
 ### 📫 Connect with me
+- ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 - <img align="left" alt="Linkedin" width="20px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>[LinkedIn](https://www.linkedin.com/in/khointn/)
 - <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164441475-ce2ef3c5-08f2-4ec6-aad9-61c9114b180b.png>[GitHub](https://www.github.com/khointn/)
 __________________________
