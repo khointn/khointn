@@ -8,15 +8,7 @@ I'm an aspiring junior at VinUniversity, Vietnam, majoring in Computer Science. 
 - Student Research Assitant - VinUniversity (2021 - now)
 - Business Analyst Intern - TMA Solutions (2019)
 
-### 👯 Extracurricular Activities
-- Co-Founder and Vice President of [VinMaker Society](https://www.facebook.com/vinmakersoc) - largest Engineering Club at VinUni. We hosted technical workshops (Unity, Web Dev, etc.), make podcast (Data Science, Learn Coding, etc.), and make fun stuff together.
-- Previous works: 2020 Finance Manager - [Pencil Philosophy](https://www.facebook.com/Pencil.Philosophy), 2019 Event Leader - [VietAbroader](https://www.facebook.com/vietabroaderconnect), 2019 Organizer - [SEALNet](https://www.facebook.com/sealnet), etc.
-- Competitions:
-  - National Champion, Schneider Go Green Challenge 2022
-  - Third Prize, International Blockchain Olympiad 2021 (IBCOL) - an ideathon competition (no coding) on blockchain solutions. Read more [here](https://vnexpress.net/viet-nam-thang-ba-giai-olympic-blockchain-quoc-te-4370294.html) (Vietnamese)
-  - Top 6, National Blockchain Olympiad 2021 (VNBCOL)
-
-### 📫 Connect with me
+### 📫 Contact
 - <img align="left" alt="Linkedin" width="20px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>[LinkedIn](https://www.linkedin.com/in/khointn/)
 - <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164441475-ce2ef3c5-08f2-4ec6-aad9-61c9114b180b.png>[GitHub](https://www.github.com/khointn/)
 __________________________
