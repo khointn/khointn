@@ -4,9 +4,8 @@ I'm an aspiring junior at VinUniversity, Vietnam, majoring in Computer Science. 
 
 ### 💬 Previous Experience
 - Data Scientist Intern - Cốc Cốc Browser (2022)
+- Research Assitant - VinUniversity (2022)
 - Data Engineer Intern - FPT Software (2021)
-- Student Research Assitant - VinUniversity (2021 - now)
-- Business Analyst Intern - TMA Solutions (2019)
 
 ### 📫 Contact
 - <img align="left" alt="Linkedin" width="20px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>[LinkedIn](https://www.linkedin.com/in/khointn/)
