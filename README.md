@@ -13,14 +13,6 @@ I'm an aspiring junior at VinUniversity, Vietnam, majoring in Computer Science. 
 - <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164441475-ce2ef3c5-08f2-4ec6-aad9-61c9114b180b.png>[GitHub](https://www.github.com/khointn/)
 __________________________
 
-### 🔭 As recruiter, what can you expect from me? 
-- **Eager to learn**: There are many things that I still need to learn more and I'm willing to do so. I usually adapt fast, else I will put more time into it until I get it.
-- **Strong communication skill**: I love to participate in social and extracurricular activities and a very active student. However, notice that I'm an introvert and maybe anti-social sometimes. Yes, introverts but love activities - they exist!
-- **Business sense and mindset**: Despite the fact that I'm a computer science student, I love to join in business competitions and got some awards. I also took 2 Finance courses in my university. I can switch and balance between business mindset and computer science mindset and this could be helpful in developing technological products for business.
-- **Summary**: 70% coder 30% business, willing to learn and improve, good communication.
-
-__________________________
-
 ### ⚡Languages and Tools
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
