@@ -3,10 +3,10 @@
 I'm currently looking to learn and improve practical skills through internships and research opportunities. My technical interests include, but are not restricted to, data science, AI, software engineering.
 
 ### 💬 Summary
+- Bachelor of Computer Science - VinUniversity (2020 - 2024)
 - Data Scientist Intern - Cốc Cốc Browser (2022): Multi-label classification for text using Fine-tuned Transformers. Uplift modeling. Tools: Transformers, Faiss, CausalML.
 - Research Assitant - VinUniversity (2022): Researched on applying deep learning to improve signal transmission in wireless communication. Tools: Python, MATLAB.
 - Data Engineer Intern - FPT Software (2021): Developed a user-friendly data extraction tool based on customer requirements. Tools: Python, SQL.
-- Bachelor of Computer Science - VinUniversity (2020 - 2024)
 
 ### 🌱 Cetificates
 - Coursera's MLOps Specialization (2022)
