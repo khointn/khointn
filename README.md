@@ -28,8 +28,6 @@ __________________________
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 __________________________
-[![trophy](https://github-profile-trophy.vercel.app/?username=khointn)](https://github.com/ryo-ma/github-profile-trophy)
-__________________________
 ### 🌱 Github Stat
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=khointn)](https://github.com/anuraghazra/github-readme-stats)
 
