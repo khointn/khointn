@@ -7,6 +7,10 @@ I'm an aspiring junior at VinUniversity, Vietnam, majoring in Computer Science. 
 - Research Assitant - VinUniversity (2022)
 - Data Engineer Intern - FPT Software (2021)
 
+### 🌱 Course
+- MLOps Specialization - Coursera (2022)
+- Databases and SQL for Data Science - Coursera (2022)
+
 ### 📫 Contact
 - <img align="left" alt="Linkedin" width="20px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>[LinkedIn](https://www.linkedin.com/in/khointn/)
 - <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164441475-ce2ef3c5-08f2-4ec6-aad9-61c9114b180b.png>[GitHub](https://www.github.com/khointn/)
