@@ -3,13 +3,13 @@
 I'm an aspiring junior at VinUniversity, Vietnam, majoring in Computer Science. I'm currently looking to learn and improve practical skills through internships and research opportunities. My technical interests include, but are not restricted to, data science, AI, software engineering, and maybe also blockchain.
 
 ### 💬 Previous Experience
-- Data Scientist Intern - Cốc Cốc Browser (2022)
-- Research Assitant - VinUniversity (2022)
-- Data Engineer Intern - FPT Software (2021)
+- Data Scientist Intern - Cốc Cốc Browser (2022): Multi-label classification for text using Fine-tuned Transformers. Uplift modeling. Tools: Transformers, Faiss, CausalML.
+- Research Assitant - VinUniversity (2022): Researched on applying deep learning to improve signal transmission in wireless communication. Tools: Python, MATLAB.
+- Data Engineer Intern - FPT Software (2021): Developed a user-friendly data extraction tool based on customer requirements. Tools: Python, SQL.
 
-### 🌱 Course
-- MLOps Specialization - Coursera (2022)
-- Databases and SQL for Data Science - Coursera (2022)
+### 🌱 Cetificates
+- Coursera's MLOps Specialization (2022)
+- Coursera's Databases and SQL for Data Science (2020)
 
 ### 📫 Contact
 - <img align="left" alt="Linkedin" width="20px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>[LinkedIn](https://www.linkedin.com/in/khointn/)
