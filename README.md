@@ -28,7 +28,7 @@ __________________________
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 __________________________
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=khointn)](https://github.com/anuraghazra/github-readme-stats)
 __________________________
 ### 🌱 Github Stat
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=khointn)](https://github.com/anuraghazra/github-readme-stats)
