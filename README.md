@@ -3,15 +3,9 @@
 I'm currently looking to learn and improve practical skills through internships and research opportunities. My technical interests include, but are not restricted to, data science, AI, software engineering.
 
 ### 💬 Summary
-- Bachelor of Computer Science - VinUniversity (2020 - 2024)
-- Research Assitant - VinUni-Illinois Smart Health Center (01/2023-now): Developing Vietnamese conversational AI and navigation commanding system for autonomous mobile robot.
+- Research Assitant - VinUni-Illinois Smart Health Center (01/2023-now): Developing navigation commanding system for autonomous mobile robot.
 - Data Scientist Intern - Cốc Cốc Browser (2022): Multi-label classification for text using Fine-tuned Transformers. Uplift modeling. Tools: Transformers, Faiss, CausalML.
-- Data Engineer Intern - FPT Software (2021): Developed a user-friendly data extraction tool based on customer requirements. Tools: Python, SQL.
-
-### 🌱 Cetificates
-- Summer School in Data Science, Vietnam Institute for Advanced Study in Mathematics (2023)
-- Coursera's MLOps Specialization (2022)
-- Third Prize, International Blockchain Olympiad; Top 6, National Blockchain Olympiad (2021)
+- Python Developer Intern - FPT Software (2021): Developed a user-friendly data extraction tool based on customer requirements. Tools: Python, SQL.
 
 ### 📫 Contact
 - <img align="left" alt="Linkedin" width="20px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>[LinkedIn](https://www.linkedin.com/in/khointn/)
