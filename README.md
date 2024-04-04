@@ -1,15 +1,4 @@
 ### 👋 Hi there - I'm Khoi
-
-I'm currently looking to learn and improve practical skills through internships and research opportunities. My technical interests include, but are not restricted to, data science, AI, software engineering.
-
-### 💬 Summary
-- Research Assitant - VinUni-Illinois Smart Health Center (01/2023-now): Developing navigation commanding system for autonomous mobile robot.
-- Data Scientist Intern - Cốc Cốc Browser (2022): Multi-label classification for text using Fine-tuned Transformers. Uplift modeling. Tools: Transformers, Faiss, CausalML.
-- Python Developer Intern - FPT Software (2021): Developed a user-friendly data extraction tool based on customer requirements. Tools: Python, SQL.
-
-### 📫 Contact
-- <img align="left" alt="Linkedin" width="20px" src = https://user-images.githubusercontent.com/53163183/164415480-30bb3516-fd78-4882-b03a-6d5d1f61cbf5.png>[LinkedIn](https://www.linkedin.com/in/khointn/)
-- <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164441475-ce2ef3c5-08f2-4ec6-aad9-61c9114b180b.png>[GitHub](https://www.github.com/khointn/)
 __________________________
 
 ### ⚡Languages and Tools
