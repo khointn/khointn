@@ -16,9 +16,6 @@ __________________________
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-__________________________
-### 🌱 Github Stat
-[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=khointn)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **nguyentietnguyenkhoi/nguyentietnguyenkhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,4 +28,7 @@ __________________________
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - <img align="left" alt="GitHub" width="20px" src = https://user-images.githubusercontent.com/53163183/164416283-7765bd84-7351-42a5-8939-e8799ab44711.png>[GitHub](https://github.com/nguyentietnguyenkhoi)
+__________________________
+### 🌱 Github Stat
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=khointn)](https://github.com/anuraghazra/github-readme-stats)
 -->
