@@ -1,4 +1,5 @@
 ### 👋 Hi there - I'm Khoi
+<!--
 __________________________
 
 ### ⚡Languages and Tools
@@ -17,7 +18,7 @@ __________________________
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 
-<!--
+
 **nguyentietnguyenkhoi/nguyentietnguyenkhoi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
